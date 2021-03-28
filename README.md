@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... this
+- 🔭 I’m currently working on this
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaroncheung430)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this
+
+//[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaroncheung430)](https://github.com/anuraghazra/github-readme-stats)
 
