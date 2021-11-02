@@ -1,24 +1,5 @@
-### Hi there 👋
-
-<!--
-**AaronCheung430/aaroncheung430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on this
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-It's Aaron here. I'm currently working on this, please stay tune and come back later. 😉
-
 <h1 align="center">Hi 👋, I'm Aaron Cheung</h1>
-<h3 align="center">A passionate Software Engineer from Hong Kong</h3>
+<h3 align="center">Computer Science Student @Durham | Passionate about SWE, FinTech, AI & AR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaroncheung430&label=Profile%20views&color=0e75b6&style=flat" alt="aaroncheung430" /> </p>
 
