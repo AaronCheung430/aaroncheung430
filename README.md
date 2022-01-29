@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **Computer Science @ Durham University**
 
-- 📫 How to reach me **aaron.cheung@durham.ac.uk**
+- 📫 How to reach me **aaron.cheung@aaroncheung430.com**
 
 - 📄 Know about my experiences on [Linkedin](https://linkedin.com/in/aaroncheung430)
 
