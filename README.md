@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron Cheung</h1>
-<h3 align="center">Computer Science Student @Durham | Passionate about SWE, FinTech, AI & AR</h3>
+<h3 align="center">Computer Science Student | Passionate about SWE, FinTech, AI, AR, CV</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaroncheung430&label=Profile%20views&color=0e75b6&style=flat" alt="aaroncheung430" /> </p>
 
