@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for **summer internship in the UK 🇬🇧**
 
-- 🌱 I’m currently studying **Computer Science @ Durham University**
+- 🌱 I’m currently studying **Computer Science**
 
 - 📫 How to reach me **aaron.cheung@aaroncheung430.com**
 
