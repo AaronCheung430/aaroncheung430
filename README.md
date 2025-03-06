@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **Computer Science**
 
-- 📫 How to reach me **aaron.cheung@aaroncheung430.com**
+- 📫 How to reach me **hi@aaroncheung430.com**
 
 - 📄 Know about my experiences on [Linkedin](https://linkedin.com/in/aaroncheung430)
 
